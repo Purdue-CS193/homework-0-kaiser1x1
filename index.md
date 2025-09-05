@@ -3,6 +3,7 @@
 ### Favorite Things
 - Environment
 - TAs
+- my friends
 
 ### Jekyll Themes
 
